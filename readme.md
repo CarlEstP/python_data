@@ -5,10 +5,6 @@ datos Northwind para optimizar la gestión de pedidos. La dirección ha solicita
 
 ![header_photo](https://github.com/CarlEstP/python_data/blob/main/modelo.PNG)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c1fdda222c6013bf6ce7994f8fa7833f5b563258
 ## Ejercicio 1. Familiarizarse con la Base de Datos:
 
 El primer paso como analista de datos es conocer la estructura y la información básica de nuestra BBDD, Crea el esquema de northwind y observa con atención las tablas que tiene y cómo están relacionadas entre sí.
