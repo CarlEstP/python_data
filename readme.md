@@ -3,6 +3,8 @@
 La empresa ficticia "Global Importaciones" ha decidido implementar un sistema de gestión de pedidos utilizando la base de datos Northwind como referencia. La empresa se dedica a la importación y distribución de productos a nivel internacional. Como analista de datos para la empresa internacional "Global Importaciones", te enfrentas al desafío de extraer información clave de la base de
 datos Northwind para optimizar la gestión de pedidos. La dirección ha solicitado insights específicos para tomar decisiones informadas. Para poder resolver este ejercicio primero, es necesario que instales la BBDD de 'Northwind' en Postgres/DBeaver, a continuación deberás generar una conexión entre Python y Postgres/DBeaver para poder realizar los siguientes ejercicios.
 
+![header_photo](https://github.com/CarlEstP/python_data/blob/main/modelo.PNG)
+
 ## Ejercicio 1. Familiarizarse con la Base de Datos:
 
 El primer paso como analista de datos es conocer la estructura y la información básica de nuestra BBDD, Crea el esquema de northwind y observa con atención las tablas que tiene y cómo están relacionadas entre sí.
