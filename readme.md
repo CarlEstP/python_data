@@ -13,7 +13,7 @@ El primer paso como analista de datos es conocer la estructura y la información
 
 Ahora vamos a sacar información básica de nuestra BBDD, para ello tienes que generar las Queries necesarias para responder a las siguientes preguntas:
 
-**¿Cuántos empleados tenemos contratados en 'Global Importaciones'? Indica su id, nombre, apellido, ciudad y país.**
+. ¿Cuántos empleados tenemos contratados en 'Global Importaciones'? Indica su id, nombre, apellido, ciudad y país.
 
 . ¿Qué productos tenemos? Indica el id del producto, id del proveedor, nombre del producto, precio por unidad, unidades en stock, unidades pedidas al proveedor y productos descontinuados.
 
